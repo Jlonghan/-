@@ -1,0 +1,6 @@
+# 忽略用户自己的 profile（包含个人业务信息，不应提交）
+skill/profile.md
+profile.md
+
+# macOS
+.DS_Store
